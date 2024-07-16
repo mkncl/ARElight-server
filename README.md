@@ -8,6 +8,10 @@ This project represent an accessible version for the
   <img src="https://github.com/mkncl/ARElight-server/blob/main/assets/interface.png?raw=true" alt="metrics_logo"/>
 </p>
 
+## Note
+Some interaction elements may not work in Safari and Edge. Use Google Chrome for better experience.
+Was tested on MPB M3-Pro with Google Chrome v126.
+
 ## Installation
 ```python
 pip3 install -r dependecies.txt
