@@ -30,7 +30,7 @@ Selection:
 3. Click on vertex and then click on other vertex - show edges between these two vertices.
 
 <p align="center">
-  <img src="https://github.com/guardeec/datasets/blob/main/readme_img/metrics_logo.png?raw=true" alt="metrics_logo"/>
+  <img src="https://github.com/mkncl/ARElight-server/blob/main/assets/interface.png?raw=true" alt="metrics_logo"/>
 </p>
 
 ## Layout of the files in output
