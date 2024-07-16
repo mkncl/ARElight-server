@@ -29,7 +29,7 @@ Selection:
 2. 2 clicks on vertex with small delay - show incoming.
 3. Click on vertex and then click on other vertex - show edges between these two vertices.
 
-![image]([https://github.com/nicolay-r/ARElight/assets/14871187/341f3b51-d639-46b6-83fe-99b542b1751b](https://postimg.cc/9ztbnB4P))
+![image]([https://raw.githubusercontent.com/mkncl/ARElight-server/main/assets/interface.png]))
 
 ## Layout of the files in output
 ```
