@@ -4,6 +4,9 @@
 This project represent an accessible version for the 
 [ARElight]([https://github.com/nicolay-r/ARElight/tree/v0.25.0](https://github.com/mkncl/ARELight)) system.
 
+<p align="center">
+  <img src="https://github.com/mkncl/ARElight-server/blob/main/assets/interface.png?raw=true" alt="metrics_logo"/>
+</p>
 
 ## Installation
 ```python
@@ -28,10 +31,6 @@ Selection:
 1. One click on vertex - show outgoing.
 2. 2 clicks on vertex with small delay - show incoming.
 3. Click on vertex and then click on other vertex - show edges between these two vertices.
-
-<p align="center">
-  <img src="https://github.com/mkncl/ARElight-server/blob/main/assets/interface.png?raw=true" alt="metrics_logo"/>
-</p>
 
 ## Layout of the files in output
 ```
