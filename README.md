@@ -29,7 +29,9 @@ Selection:
 2. 2 clicks on vertex with small delay - show incoming.
 3. Click on vertex and then click on other vertex - show edges between these two vertices.
 
-![image]([https://raw.githubusercontent.com/mkncl/ARElight-server/main/assets/interface.png]))
+<p align="center">
+  <img src="https://github.com/guardeec/datasets/blob/main/readme_img/metrics_logo.png?raw=true" alt="metrics_logo"/>
+</p>
 
 ## Layout of the files in output
 ```
